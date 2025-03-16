@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="16" cy="16" r="16" fill="#000000"/>
+  <!-- 全黑背景 -->
+  <rect x="0" y="0" width="32" height="32" fill="#000000"/>
+  <!-- 簡單的「X」字母 -->
   <text x="50%" y="59%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#FFFFFF">X</text>
 </svg>
